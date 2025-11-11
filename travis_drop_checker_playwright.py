@@ -5,7 +5,7 @@ import re, os, time, requests
 # === CONFIGURATION ===
 URL = "https://shop.travisscott.com/"
 STATE_FILE = "state.txt"
-WEBHOOK_URL = "https://discordapp.com/api/webhooks/1437841079339581460/fqHpyct430eKY3-Y6mg5bT9FnRNPq16OQ36E02bwsq_ll6YWkld3yBG-5xS8D0tlpGxA"
+WEBHOOK_URL = ""
 CHECK_INTERVAL = 300  # seconds = 5 minutes
 
 # === HELPERS ===
