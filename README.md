@@ -1,4 +1,4 @@
-# Travis Scott Drop Checker 👟
+# Travis Scott Drop Checker
 
 A Python automation script that monitors the [Travis Scott website](https://shop.travisscott.com) for new drops and sends Discord alerts when something appears.
 
