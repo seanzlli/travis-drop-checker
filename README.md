@@ -34,16 +34,17 @@ A Python automation script that monitors the [Travis Scott website](https://shop
 3. **Run the bot**
    python travis_drop_checker_playwright.py
 
-EXAMPLE OUTPUT
+## EXAMPLE OUTPUT
 🚀 Travis Scott Drop Checker started...
 🧩 Found 1 'Soon' tag(s) on rendered page.
 🕐 No drop yet.
 ⏳ Waiting 5.0 minutes before next check...
 
-FUTURE IMRPOVEMENTS
+## FUTURE IMRPOVEMENTS
 Add multi-site support (Nike, SNKRS, etc.)
 Web dashboard for live tracking
 Configurable check intervals
 
+## Thank you for your time
 Author
 Sean Zhu Liong Li (SeanZLLi)
